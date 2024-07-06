@@ -1,0 +1,26 @@
+body{
+background-color: blue;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin: 15;
+padding: 15;
+}
+h1 {
+    color:brown;
+    font-size: 18;
+    margin-bottom: auto;
+}
+miParrafo{
+    color: aquamarine #5a4e4e;
+    font-size: 20px;
+    margin-bottom: 15px;
+ }
+ button{
+    background-color: darkcyan;
+    border: none;
+    color: green;
+    padding: 15px 25px;
+    text-align: center;
+ }
+ button:hover{
+    background-color: #5a4e4e;
+ }
